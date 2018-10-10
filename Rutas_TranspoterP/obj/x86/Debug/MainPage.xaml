@@ -1,0 +1,52 @@
+﻿<Page
+    x:Class="Rutas_TranspoterP.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Rutas_TranspoterP"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:Maps="using:Windows.UI.Xaml.Controls.Maps"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="#1b1b1b">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="17*"/>
+            <ColumnDefinition Width="8*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="3*"/>
+        </Grid.RowDefinitions>
+
+        <Maps:MapControl x:ConnectionId='2' x:Name="myMap" Margin="15,15" Grid.Row="1" Grid.Column="0"
+                         MapServiceToken="rM8ALxfMcU2VOCJwx2mW~SeYm6Uoncat3ctCBSzt-mA~AsNH4OMpMkc7cdu370ncUjx_U6USwQoQZXVlk_um0MmsbggpfTTJ81xynCYr4Rrs"
+                                                    />
+
+        <StackPanel Grid.Column="0" Grid.Row="0">
+            <TextBlock Foreground="White" Margin="30" FontFamily="Calibri" FontSize="40" HorizontalAlignment="Center" Text="Rutas de Transporte Público"/>
+        </StackPanel>
+
+        <StackPanel Grid.Column="1" Grid.Row="1" Margin="35">
+            <TextBlock FontFamily="Arial" FontSize="16" Foreground="White">Ruta:</TextBlock>
+            <TextBox></TextBox>
+            <ComboBox x:ConnectionId='3' x:Name="cmbVista" Margin="0" SelectedIndex="0" HorizontalAlignment="Stretch" >
+                <ComboBoxItem Content="Vista" IsSelected="True"/>
+                <ComboBoxItem Content="Streetview" IsSelected="False"/>
+                <ComboBoxItem Content="3D" IsSelected="False"/>
+            </ComboBox>
+            <Button x:ConnectionId='4' Width="120" Height="30" Margin="12" HorizontalAlignment="Center" Content="Vista"                          >
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FF0199E0"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
+            
+        </StackPanel>
+
+    </Grid>
+
+</Page>
+
