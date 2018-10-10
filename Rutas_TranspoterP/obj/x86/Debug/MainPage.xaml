@@ -35,7 +35,7 @@
                 <ComboBoxItem Content="Streetview" IsSelected="False"/>
                 <ComboBoxItem Content="3D" IsSelected="False"/>
             </ComboBox>
-            <Button x:ConnectionId='4' Width="120" Height="30" Margin="12" HorizontalAlignment="Center" Content="Vista"                          >
+            <Button x:ConnectionId='4' Width="120" Height="30" Margin="12" HorizontalAlignment="Center" Content="Vista"                     >
                 <Button.Background>
                     <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                         <GradientStop Color="#FF0199E0"/>

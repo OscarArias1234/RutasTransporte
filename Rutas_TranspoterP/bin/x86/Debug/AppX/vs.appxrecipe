@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>d8bcfbde-ab12-412a-a0fd-05fb54811380</PackageIdentityName>
     <PackageIdentityPublisher>CN=ODSA</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\proyectosvs\Rutas_TranspoterP\Rutas_TranspoterP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\proyectosvs\RutasTransporte\Rutas_TranspoterP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\proyectosvs\Rutas_TranspoterP\Rutas_TranspoterP\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\proyectosvs\RutasTransporte\Rutas_TranspoterP\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>1E1F44D60836E1B3C3C3ECBF897B865BA2CE151E3E22578C307B3B6A198F4DAF</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>d8bcfbde-ab12-412a-a0fd-05fb54811380_1.0.0.0_x86__ck0erwcqjkwk8</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>d8bcfbde-ab12-412a-a0fd-05fb54811380_ck0erwcqjkwk8!App</RegisteredUserModeAppID>
@@ -28,16 +28,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\proyectosvs\Rutas_TranspoterP\Rutas_TranspoterP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\proyectosvs\RutasTransporte\Rutas_TranspoterP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-10-10T13:50:23.482</Modified>
+      <Modified>2018-10-10T22:42:47.423</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\proyectosvs\Rutas_TranspoterP\Rutas_TranspoterP\bin\x86\Debug\Rutas_TranspoterP.exe">
+    <AppxPackagedFile Include="C:\proyectosvs\RutasTransporte\Rutas_TranspoterP\bin\x86\Debug\Rutas_TranspoterP.exe">
       <PackagePath>entrypoint\Rutas_TranspoterP.exe</PackagePath>
-      <Modified>2018-10-10T13:50:20.166</Modified>
+      <Modified>2018-10-10T22:42:46.945</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -495,68 +495,68 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2016-06-12T04:15:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\proyectosvs\Rutas_TranspoterP\Rutas_TranspoterP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\proyectosvs\RutasTransporte\Rutas_TranspoterP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2018-10-07T16:23:20.610</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\proyectosvs\Rutas_TranspoterP\Rutas_TranspoterP\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\proyectosvs\RutasTransporte\Rutas_TranspoterP\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2018-08-24T00:08:30.100</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\proyectosvs\Rutas_TranspoterP\Rutas_TranspoterP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\proyectosvs\RutasTransporte\Rutas_TranspoterP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-08-24T00:08:30.100</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\proyectosvs\Rutas_TranspoterP\Rutas_TranspoterP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\proyectosvs\RutasTransporte\Rutas_TranspoterP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-08-24T00:08:30.100</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\proyectosvs\Rutas_TranspoterP\Rutas_TranspoterP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\proyectosvs\RutasTransporte\Rutas_TranspoterP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-08-24T00:08:30.100</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\proyectosvs\Rutas_TranspoterP\Rutas_TranspoterP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\proyectosvs\RutasTransporte\Rutas_TranspoterP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-08-24T00:08:30.100</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\proyectosvs\Rutas_TranspoterP\Rutas_TranspoterP\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\proyectosvs\RutasTransporte\Rutas_TranspoterP\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-08-24T00:08:30.100</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\proyectosvs\Rutas_TranspoterP\Rutas_TranspoterP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\proyectosvs\RutasTransporte\Rutas_TranspoterP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-08-24T00:08:30.100</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\proyectosvs\Rutas_TranspoterP\Rutas_TranspoterP\bin\x86\Debug\Rutas_TranspoterP.xr.xml">
+    <AppxPackagedFile Include="C:\proyectosvs\RutasTransporte\Rutas_TranspoterP\bin\x86\Debug\Rutas_TranspoterP.xr.xml">
       <PackagePath>Rutas_TranspoterP.xr.xml</PackagePath>
       <Modified>2018-10-08T23:57:15.585</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\proyectosvs\Rutas_TranspoterP\Rutas_TranspoterP\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\proyectosvs\RutasTransporte\Rutas_TranspoterP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2018-10-10T13:50:19.200</Modified>
+      <Modified>2018-10-10T22:42:46.727</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\proyectosvs\Rutas_TranspoterP\Rutas_TranspoterP\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\proyectosvs\RutasTransporte\Rutas_TranspoterP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2018-10-10T13:50:19.202</Modified>
+      <Modified>2018-10-10T22:42:46.728</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2018-04-20T03:01:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\proyectosvs\Rutas_TranspoterP\Rutas_TranspoterP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\proyectosvs\RutasTransporte\Rutas_TranspoterP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-10-07T16:42:33.251</Modified>
+      <Modified>2018-10-10T15:15:32.732</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\proyectosvs\Rutas_TranspoterP\Rutas_TranspoterP\bin\x86\Debug\Core\Rutas_TranspoterP.exe">
+    <AppxPackagedFile Include="C:\proyectosvs\RutasTransporte\Rutas_TranspoterP\bin\x86\Debug\Core\Rutas_TranspoterP.exe">
       <PackagePath>Rutas_TranspoterP.exe</PackagePath>
-      <Modified>2018-10-10T13:50:23.416</Modified>
+      <Modified>2018-10-10T22:42:47.419</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

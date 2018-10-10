@@ -1,1 +1,1 @@
-C:\proyectosvs\Rutas_TranspoterP\Rutas_TranspoterP\Rutas_TranspoterP.csproj;x86
+C:\proyectosvs\RutasTransporte\Rutas_TranspoterP\Rutas_TranspoterP.csproj;x86

@@ -27506,11 +27506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\proyectosvs\\Rutas_TranspoterP\\Rutas_TranspoterP\\Rutas_TranspoterP.csproj",
+      "projectUniqueName": "C:\\proyectosvs\\RutasTransporte\\Rutas_TranspoterP\\Rutas_TranspoterP.csproj",
       "projectName": "Rutas_TranspoterP",
-      "projectPath": "C:\\proyectosvs\\Rutas_TranspoterP\\Rutas_TranspoterP\\Rutas_TranspoterP.csproj",
+      "projectPath": "C:\\proyectosvs\\RutasTransporte\\Rutas_TranspoterP\\Rutas_TranspoterP.csproj",
       "packagesPath": "C:\\Users\\ODSA\\.nuget\\packages\\",
-      "outputPath": "C:\\proyectosvs\\Rutas_TranspoterP\\Rutas_TranspoterP\\obj\\",
+      "outputPath": "C:\\proyectosvs\\RutasTransporte\\Rutas_TranspoterP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

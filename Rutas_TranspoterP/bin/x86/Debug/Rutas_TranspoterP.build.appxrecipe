@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>d8bcfbde-ab12-412a-a0fd-05fb54811380</PackageIdentityName>
     <PackageIdentityPublisher>CN=ODSA</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\proyectosvs\Rutas_TranspoterP\Rutas_TranspoterP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\proyectosvs\RutasTransporte\Rutas_TranspoterP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\proyectosvs\Rutas_TranspoterP\Rutas_TranspoterP\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\proyectosvs\RutasTransporte\Rutas_TranspoterP\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\proyectosvs\Rutas_TranspoterP\Rutas_TranspoterP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\proyectosvs\RutasTransporte\Rutas_TranspoterP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\proyectosvs\Rutas_TranspoterP\Rutas_TranspoterP\bin\x86\Debug\Rutas_TranspoterP.exe">
+    <AppxPackagedFile Include="C:\proyectosvs\RutasTransporte\Rutas_TranspoterP\bin\x86\Debug\Rutas_TranspoterP.exe">
       <PackagePath>entrypoint\Rutas_TranspoterP.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
@@ -370,53 +370,53 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.xml.xmlserializer\4.0.11\lib\netcore50\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\proyectosvs\Rutas_TranspoterP\Rutas_TranspoterP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\proyectosvs\RutasTransporte\Rutas_TranspoterP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\proyectosvs\Rutas_TranspoterP\Rutas_TranspoterP\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\proyectosvs\RutasTransporte\Rutas_TranspoterP\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\proyectosvs\Rutas_TranspoterP\Rutas_TranspoterP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\proyectosvs\RutasTransporte\Rutas_TranspoterP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\proyectosvs\Rutas_TranspoterP\Rutas_TranspoterP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\proyectosvs\RutasTransporte\Rutas_TranspoterP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\proyectosvs\Rutas_TranspoterP\Rutas_TranspoterP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\proyectosvs\RutasTransporte\Rutas_TranspoterP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\proyectosvs\Rutas_TranspoterP\Rutas_TranspoterP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\proyectosvs\RutasTransporte\Rutas_TranspoterP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\proyectosvs\Rutas_TranspoterP\Rutas_TranspoterP\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\proyectosvs\RutasTransporte\Rutas_TranspoterP\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\proyectosvs\Rutas_TranspoterP\Rutas_TranspoterP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\proyectosvs\RutasTransporte\Rutas_TranspoterP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\proyectosvs\Rutas_TranspoterP\Rutas_TranspoterP\bin\x86\Debug\Rutas_TranspoterP.xr.xml">
+    <AppxPackagedFile Include="C:\proyectosvs\RutasTransporte\Rutas_TranspoterP\bin\x86\Debug\Rutas_TranspoterP.xr.xml">
       <PackagePath>Rutas_TranspoterP.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\proyectosvs\Rutas_TranspoterP\Rutas_TranspoterP\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\proyectosvs\RutasTransporte\Rutas_TranspoterP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\proyectosvs\Rutas_TranspoterP\Rutas_TranspoterP\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\proyectosvs\RutasTransporte\Rutas_TranspoterP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\proyectosvs\Rutas_TranspoterP\Rutas_TranspoterP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\proyectosvs\RutasTransporte\Rutas_TranspoterP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\proyectosvs\Rutas_TranspoterP\Rutas_TranspoterP\bin\x86\Debug\Core\Rutas_TranspoterP.exe">
+    <AppxPackagedFile Include="C:\proyectosvs\RutasTransporte\Rutas_TranspoterP\bin\x86\Debug\Core\Rutas_TranspoterP.exe">
       <PackagePath>Rutas_TranspoterP.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
